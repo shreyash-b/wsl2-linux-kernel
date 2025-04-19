@@ -1,5 +1,6 @@
 # Readme (fork)
 
+
 The default WSL2 Linux kernel comes without Bluetooth support. The aim of this fork is to provide a kernel image with Bluetooth support.
 
 To build a custom kernel image:
